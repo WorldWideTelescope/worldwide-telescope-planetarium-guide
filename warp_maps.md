@@ -1,5 +1,5 @@
-# Warp Maps {#warp-maps}
+# Warp Maps
 
 1.  Make Warp Maps and Send to Nodes
-    1.  Click Make warp maps
-    2.  Click Send New Maps – this will send new maps to all nodes
+  -  Click Make warp maps
+  -  Click Send New Maps – this will send new maps to all nodes
