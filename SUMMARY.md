@@ -1,7 +1,6 @@
 # Summary
 
 * [WorldWide Telescope Multi-Channel Dome Setup](README.md)
-* [Planetarium Quick Start](quickstart.md)
 * [Software Installation](software_installation.md)
 * [FOV Values](fov_values.md)
 * [Projector Values](projector_values.md)
