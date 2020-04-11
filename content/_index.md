@@ -10,6 +10,12 @@ has been developed to include a variety of playback mediums. This document
 will detail the steps required for a multi-channel display setup for use in a
 dome or frustum environment.
 
+{% note(html=1) %}
+Installation of WWT in a multi-channel display setup requires the use of the
+Windows version of WWT — the <a href="//worldwidetelescope.org/webclient/">web
+client</a> does not support these features.
+{% end %}
+
 It is recommended before attempting to setup a multi-channel system that you
 familiarize yourself with WWT as a system. There are many introductory tours
 that will help in this process that are included with the software.
