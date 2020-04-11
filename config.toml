@@ -1,4 +1,4 @@
-base_url = "//docs.worldwidetelescope.org/multichannel-dome-setup/1"
+base_url = "//docs.worldwidetelescope.org/multichannel-dome-setup/1/"
 title = "WWT Multi-Channel Dome Setup Guide"
 description = "How to set up WWT in a multi-projector planetarium dome."
 theme = "wwtguide"

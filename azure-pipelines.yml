@@ -12,6 +12,6 @@ jobs:
     storageAccountName: 'wwtwebstatic'
     cdnEndpointName: 'wwtwebdocs-prod'
     cdnProfileName: 'wwt-cdn-01'
-    cdnPubPrefix: '/user-manual/1'
+    cdnPubPrefix: '/multichannel-dome-setup/1'
     cdnResourceGroupName: 'wwt-web01'
-    pubPrefix: '_docs/user-manual/1'
+    pubPrefix: '_docs/multichannel-dome-setup/1'
