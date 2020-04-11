@@ -4,7 +4,7 @@ weight = 300
 +++
 
 _Specifying projector values._
-![](assets/setproj.png)
+![](setproj.png)
 
 1. Enter Projector Values for each projector. This is where the projector is
    physically located in the dome.
@@ -18,7 +18,7 @@ _Specifying projector values._
 
 _In this example, my Audience front projection area is being projected from
 the rear of the dome, onto the front of the dome._
-![](assets/examplesetup.jpg)
+![](examplesetup.jpg)
 
 1. Set constraints (Spring-line, Zenith) by left clicking on the projection
    channel under points, and then right clicking to bring up properties.
@@ -42,4 +42,4 @@ the rear of the dome, onto the front of the dome._
     weight of up to 10
     
 _Setting constraints_
-![](assets/constraint.jpg)
+![](constraint.jpg)
