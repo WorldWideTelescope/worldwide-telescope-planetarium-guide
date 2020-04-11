@@ -4,7 +4,7 @@ weight = 200
 +++
 
 _Setting Field of View Values._
-![](assets/setfov.png)
+![](setfov.png)
 
 1. Enter FOV Values for each projector.
   - This is the part of the dome the projector sees/ projects onto from the
