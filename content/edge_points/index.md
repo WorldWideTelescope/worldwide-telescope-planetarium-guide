@@ -4,7 +4,7 @@ weight = 400
 +++
 
 _Setting Edge Points._
-![](assets/edgepoints.jpg)
+![](edgepoints.jpg)
 
 1. Set edge points. These mark places on the dome where one projector overlaps
    another’s edge.
@@ -19,7 +19,7 @@ _Setting Edge Points._
     - You will see two points populate, one for each edge in red and green.
     - Left click will control a red point
       _Selecting Calibration Scenes_
-      ![](assets/calibrationscenes.jpg)
+      ![](calibrationscenes.jpg)
     - Right click will control a green point
     - Align center X on top of each other in roughly the center of the blend
       region
@@ -33,4 +33,4 @@ _Setting Edge Points._
       2. These points will cause a singularity when trying to solve alignment.
       3. Delete any points like this before solving alignment:
 
-![](assets/delbadpoints.jpg)
+![](delbadpoints.jpg)
