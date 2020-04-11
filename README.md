@@ -14,7 +14,7 @@ come to the right place!
 
 ## Quick Start for the Initiated
 
-The manual is a static site written in [CommonMark Markdown] and processed
+The guide is a static site written in [CommonMark Markdown] and processed
 with [Zola]. Zola is distributed as a single executable so it is ridiculously
 [easy to install][install-zola].
 
