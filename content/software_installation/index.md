@@ -7,7 +7,7 @@ weight = 100
    servers,
    [http://www.worldwidetelescope.org](http://www.worldwidetelescope.org/)
 
-  ![](assets/install.png)
+  ![](install.png)
   - Install with default folder path `C:\Program Files (x86)\Microsoft
     Research\Microsoft WorldWide Telescope`
 
@@ -35,7 +35,7 @@ weight = 100
       `config.xml` file to be created in the folder `C:\wwtconfig`
     - Using a text or XML editor, change the `config.xml` file as follows for
       _each_ of the projector nodes <br> _Example config.xml for projector
-      nodes._ ![](assets/config_projector.png)
+      nodes._ ![](config_projector.png)
 
       1. Create a unique cluster ID
       2. Create a node ID
@@ -48,7 +48,7 @@ weight = 100
     - Using a text or XML editor, change the config.xml file as follows for
       the Master node
       _Example config.xml for Master node._
-      ![](assets/config_master.png)
+      ![](config_master.png)
       1. Enter your unique cluster id
       2. Change Node Id to -1
       3. Check and ensure Master is set to True
@@ -57,38 +57,38 @@ weight = 100
       6. Save file and close editor
 
 1. Open Remote Access Control under Settings>Remote Access Control on _each_
-  node _Select Remote Access Control._ ![](assets/remoteaccesscontrol.png)
+  node _Select Remote Access Control._ ![](remoteaccesscontrol.png)
   - Enter the IP address of your Master Controller Node. This ensures only you
     will have control of your nodes at all times.
   - Check Accept Local Connections.
     _Setting IP address for Remote Access Control._
-    ![](assets/setip.png)
+    ![](setip.png)
 
 1. Launch WWT on Master Controller node
 2. On Master Controller Node Ensure under `Settings>Advanced` that Master
    Controller is checked
 
 _Setting a node as Master Controller._
-![](assets/setnode.png)
+![](setnode.png)
 
 1. Open Projector Server List under `Settings> Advanced` to ensure you can see
    all nodes, and they are green. This pane will also tell you frame rates and
    other useful information for each node.
 
 _Opening Projector Server List._
-![](assets/projectorserverlist.png)
+![](projectorserverlist.png)
 
 1. Open `Settings>Advanced>Multi Channel Calibration`
 
 _Selecting Multi-channel calibration._
-![](assets/multichannelprojector.png)
+![](multichannelprojector.png)
 
 1. Set specifics for the projection area
    - Select the type of screen as Spherical
    - Set Screen Radius in meters
    - Set Tilt to locate center of interest in the display. (example: A value
    of 60 indicates that main focus of most viewers will be on a point 60
-   degrees up from the spring-line) ![](assets/projectionarea.jpg)
+   degrees up from the spring-line) ![](projectionarea.jpg)
 
 1. Set number of projectors in the top left panel
     - Left click to highlight a channel
@@ -104,4 +104,4 @@ _Selecting Multi-channel calibration._
       centered exactly in the middle of the dome
     - Projector tab pertains to the actual physical location of the projector
     - Solved tab contains the temporary output from a Solve Alignment calculation
-    ![](assets/projectorproperties.jpg)
+    ![](projectorproperties.jpg)
