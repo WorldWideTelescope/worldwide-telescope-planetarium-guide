@@ -1,4 +1,7 @@
 +++
+title = "WWT Multi-Channel Dome Setup Guide"
+sort_by = "weight"
+insert_anchor_links = "right"
 +++
 
 WorldWide Telescope (WWT) is a free program designed to give users the ability
