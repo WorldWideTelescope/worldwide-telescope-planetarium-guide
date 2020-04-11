@@ -11,4 +11,4 @@ weight = 700
   4. Open a Scene Such as “Look at Earth” or “Solar System”
   5. Fly in and out and confirm alignment
 
-![](assets/lookat.jpg)
+![](lookat.jpg)
