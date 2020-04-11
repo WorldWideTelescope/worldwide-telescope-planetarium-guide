@@ -1,4 +1,7 @@
-# Confirm Alignment
++++
+title = "Confirm Alignment"
+weight = 700
++++
 
 1.  Confirm alignment
   - Close Multi Channel Setup Window

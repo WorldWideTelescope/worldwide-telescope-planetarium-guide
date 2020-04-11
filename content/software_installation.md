@@ -1,4 +1,7 @@
-# Software Installation
++++
+title = "Software Installation"
+weight = 100
++++
 
 1. Install WWT Windows Client on all Servers both Master and Projector servers, [http://www.worldwidetelescope.org](http://www.worldwidetelescope.org/)
 

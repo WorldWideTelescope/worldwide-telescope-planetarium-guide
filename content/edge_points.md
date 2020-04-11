@@ -1,4 +1,7 @@
-# Edge Points
++++
+title = "Edge Points"
+weight = 400
++++
 
 _Setting Edge Points._
 ![](assets/edgepoints.jpg)

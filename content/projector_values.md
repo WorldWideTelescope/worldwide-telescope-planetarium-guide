@@ -1,4 +1,7 @@
-# Projector Values
++++
+title = "Projector Values"
+weight = 300
++++
 
 _Specifying projector values._
 ![](assets/setproj.png)

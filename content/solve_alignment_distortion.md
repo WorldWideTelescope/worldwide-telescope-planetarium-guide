@@ -1,4 +1,7 @@
-# Solve Alignment/Distortion
++++
+title = "Solve Alignment and Distortion"
+weight = 500
++++
 
 ![](assets/solve.jpg)
 

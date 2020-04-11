@@ -1,4 +1,7 @@
-# Blending
++++
+title = "Blending"
+weight = 800
++++
 
 1.  Setup blending
   1.  Open Multi-Channel Setup Screen
