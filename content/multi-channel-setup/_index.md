@@ -1,5 +1,6 @@
 +++
-title = "WWT Multi-Channel Dome Setup Guide"
+title = "Multi-Channel Dome Setup"
+weight = 100
 sort_by = "weight"
 insert_anchor_links = "right"
 +++
