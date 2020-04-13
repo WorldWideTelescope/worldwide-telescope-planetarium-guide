@@ -1,11 +1,11 @@
-# WWT Multichannel Dome Setup Guide: Source Code
+# WWT Planetarium Guide: Source Code
 
-This repository contains the source code for the [WWT Multi-Channel Dome Setup Guide].
+This repository contains the source code for the [WWT Planetarium Guide].
 The `master` branch of this repo gets published here:
 
-### https://docs.worldwidetelescope.org/multichannel-dome-setup/1/
+### https://docs.worldwidetelescope.org/planetarium-guide/1/
 
-[WWT Multi-Channel Dome Setup Guide]: https://docs.worldwidetelescope.org/multichannel-dome-setup/1/
+[WWT Planetarium Guide]: https://docs.worldwidetelescope.org/planetarium-guide/1/
 
 If you’re just interested in the documentation itself, you should go to that
 website. If you’re interested in *contributing* to this documentation, you’ve
