@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIDIMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Numark DJ2Go" DeviceImageUrl="http://www.worldwidetelescope.org/thirdparty/numarkdj2go.png">
+  <ControlMaps>
+    <ControlMap Name="Scroll" Channel="0" ID="26" ControlType="Jog" AutoRepeat="false" Mapped="true" X="0.5" Y="0.048469387" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ClockWise" Target="" TargetType="Navigation" BindingType="Action" PropertyName="NextItem" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="CounterClockwise" Target="" TargetType="Navigation" BindingType="Action" PropertyName="LastItem" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="BG" Channel="0" ID="75" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.4502551" Y="0.0471938774" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="SetBackground" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="FG" Channel="0" ID="52" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.5497449" Y="0.048469387" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="SetForeground" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Back" Channel="0" ID="89" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.466836721" Y="0.096938774" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="Back" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Select" Channel="0" ID="90" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.5255102" Y="0.0956632644" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="Select" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Time Jog" Channel="0" ID="25" ControlType="Jog" AutoRepeat="false" Mapped="true" X="0.2997449" Y="0.1875" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ClockWise" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Faster" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="CounterClockwise" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Slower" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Play" Channel="0" ID="59" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.179846942" Y="0.207908154" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="PauseTime" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Now" Channel="0" ID="64" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.130102038" Y="0.104591832" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="SetRealtimeNow" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Yesterday" Channel="0" ID="68" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.127551019" Y="0.0446428545" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="LastSiderealDay" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Tomorrow" Channel="0" ID="67" ControlType="KeyPress" AutoRepeat="false" Mapped="true" X="0.184948981" Y="0.0433673449" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="NextSiderealDay" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Image Crossfade" Channel="0" ID="10" ControlType="Slider" AutoRepeat="false" Mapped="true" X="0.496173471" Y="0.204081625" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Navigation" BindingType="SyncValue" PropertyName="ImageCrossfade" Min="0" Max="100" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Zoom In" Channel="0" ID="69" ControlType="KeyPress" AutoRepeat="true" Mapped="true" X="0.807397962" Y="0.0497448966" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="ZoomIn" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Zoom Out" Channel="0" ID="70" ControlType="KeyPress" AutoRepeat="true" Mapped="true" X="0.872449" Y="0.0446428545" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="ZoomOut" Min="0" Max="100" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="100" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Angle" Channel="0" ID="23" ControlType="Slider" AutoRepeat="false" Mapped="true" X="0.355867326" Y="0.0510204062" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Navigation" BindingType="SyncValue" PropertyName="Angle" Min="-1.5707963267948966" Max="0" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Rotation" Channel="0" ID="8" ControlType="Slider" AutoRepeat="false" Mapped="true" X="0.25" Y="0.0459183678" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Navigation" BindingType="SyncValue" PropertyName="Rotation" Min="-3.14" Max="3.14" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="Fader" Channel="0" ID="14" ControlType="Slider" AutoRepeat="false" Mapped="true" X="0.942602038" Y="0.128826529" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Navigation" BindingType="SyncValue" PropertyName="FadeToBlack" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+  </ControlMaps>
+</MIDIMap>
