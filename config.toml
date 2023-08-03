@@ -1,8 +1,8 @@
-base_url = "//docs.worldwidetelescope.org/planetarium-guide/1/"
+base_url = "https://docs.worldwidetelescope.org/planetarium-guide/1/"
 title = "WWT Planetarium Guide"
 description = "Setting up and using WWT in planetariums."
 theme = "wwtguide"
 
 [extra]
-github_base = "//github.com/WorldWideTelescope/worldwide-telescope-planetarium-guide"
-google_analytics_id = "UA-107473046-3"
+github_base = "https://github.com/WorldWideTelescope/worldwide-telescope-planetarium-guide"
+google_analytics_id = "G-D1J49XX0CV"
